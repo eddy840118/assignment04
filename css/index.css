@@ -263,8 +263,10 @@
   float: left;
   padding: 15px;
   height:calc(100% - 30px);
-  width: calc(100% - 491px);
+  width: 97%;
   border-left: 1px solid rgb(146, 141, 141);
   padding-bottom: auto;
+  text-align: center;
+  position: relative;
 
 }
