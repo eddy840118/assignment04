@@ -97,7 +97,7 @@ body {
     float: left;
     height: calc(100% - 30px);
     padding:15px;
-    width: calc(100% - 491px);
+    /* width: calc(100% - 491px); */
     border-left: 1px solid rgb(146, 141, 141);
     
 }

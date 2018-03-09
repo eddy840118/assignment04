@@ -35,7 +35,7 @@
   .main-header,
   .main-footer {
     background-color: #6871c0;
-    height: 55px;
+    height: 70px;
   }
 
   .legal-text {
@@ -351,4 +351,9 @@
     border-left: 1px solid rgb(146, 141, 141);
     padding-bottom: auto;
 
+  }
+
+  .logo >img {
+    height:40px;
+  
   }
